@@ -15,18 +15,21 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 
 ---
 
-## 💡 Skills  
+## 💡 Skills
 
-<p align="left">
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>Python</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/><br>C</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/><br>C++</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/><br>Java</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/><br>Firebase</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/><br>Android Studio</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/><br>Git</div>
-  <div align="center" style="display:inline-block; margin: 10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/><br>SQL</div>
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br><sub><b>Python</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/><br><sub><b>C</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br><sub><b>C++</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/><br><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
+    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="50" height="50" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/><br><sub><b>SQL</b></sub></td>
+  </tr>
+</table>
 
 ---
 
