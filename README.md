@@ -37,10 +37,14 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 ---
 
 ## 🚀 Featured Projects  
-### 📱 [FamilyTree_kotlin](https://github.com/yonischwartz/FamilyTree_kotlin)  
+
+[![GitHub Repo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/yonischwartz/FamilyTree_kotlin)  
+
+**[FamilyTree_kotlin](https://github.com/yonischwartz/FamilyTree_kotlin)**  
 An Android app for displaying a dynamic family tree with Firebase integration, offline caching, and interactive UI.  
 
-[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.yoniSchwartz.YBMTree)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=your.package.name)
+
 ---
 
 ## 🎓 Education  
