@@ -1,5 +1,5 @@
 # Yoni Schwartz  
-**Computer Science Student 
+Computer Science Student 
 ---
 
 ## 👋 About Me  
