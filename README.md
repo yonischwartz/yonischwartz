@@ -38,24 +38,11 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 
 ## 🚀 Featured Projects  
 
-<table>
-  <tr>
-    <td width="40" align="center">
-      <a href="https://github.com/yonischwartz/FamilyTree_kotlin">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/yonischwartz/FamilyTree_kotlin"><b>FamilyTree_kotlin</b></a>  
-      An Android app for displaying a dynamic family tree with Firebase integration, offline caching, and interactive UI.  
-      <br><br>
-      <a href="https://play.google.com/store/apps/details?id=your.package.name">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="150"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**[FamilyTree_kotlin](https://github.com/yonischwartz/FamilyTree_kotlin)**  
+An Android app for displaying a dynamic family tree with Firebase integration, offline caching, and interactive UI.  
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/yonischwartz/FamilyTree_kotlin)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="150"/>](https://play.google.com/store/apps/details?id=your.package.name)
 ---
 
 ## 🎓 Education  
