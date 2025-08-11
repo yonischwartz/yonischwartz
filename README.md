@@ -25,7 +25,7 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br><sub><b>Java</b></sub></td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/><br><sub><b>Kotlin</b></sub></td>
     <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase"/><br><sub><b>Firebase</b></sub></td>
-    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="50" height="50" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/><br><sub><b>Android Studio</b></sub></td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br><sub><b>Git</b></sub></td>
     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/><br><sub><b>SQL</b></sub></td>
   </tr>
