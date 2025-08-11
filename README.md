@@ -18,35 +18,35 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 ## 💡 Skills  
 
 <p align="left">
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <figcaption>Python</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
     <figcaption>C</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
     <figcaption>C++</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     <figcaption>Java</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
     <figcaption>Firebase</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/>
     <figcaption>Android Studio</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
     <figcaption>Git</figcaption>
   </figure>
-  <figure style="display:inline-block; text-align:center; margin: 10px;">
+  <figure style="display:inline-block; text-align:center; margin: 10px; vertical-align: top;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
     <figcaption>SQL</figcaption>
   </figure>
