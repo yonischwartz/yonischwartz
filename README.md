@@ -12,6 +12,8 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 📧 **Email:** [yschwartz23@gmail.com](mailto:yschwartz23@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/yonischwartz](https://linkedin.com/in/yonischwartz)  
 🐙 **GitHub:** [github.com/yonischwartz](https://github.com/yonischwartz)  
+📞 **Phone:** [+972 532 4711](tel:+9725324711)  
+📍 **Location:** Jerusalem, Israel  
 
 ---
 
