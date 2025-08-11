@@ -1,6 +1,5 @@
 # Yoni Schwartz  
-**Computer Science Student | Android & Machine Learning Developer**  
-
+**Computer Science Student 
 ---
 
 ## 👋 About Me  
