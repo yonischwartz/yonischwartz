@@ -44,9 +44,3 @@ An Android app for displaying a dynamic family tree with Firebase integration, o
 **B.Sc. in Computer Science** – Hebrew University of Jerusalem (Expected 2027)  
 
 ---
-
-## 📊 GitHub Stats  
-![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonischwartz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonischwartz&layout=compact&theme=radical)  
-
----
