@@ -5,7 +5,7 @@
 
 ## 👋 About Me  
 I’m a third-year Computer Science student at **Hebrew University**, passionate about building practical software solutions and solving challenging problems.  
-I have hands-on experience in **Android development (Kotlin, Firebase)** and **Machine Learning (Python, scikit-learn, NumPy, pandas)**, alongside a solid background in algorithms and data structures.  
+I have hands-on experience in **Android development (Kotlin, Firebase)** and programming in **Python, C, C++, Java, and SQL**, alongside a solid background in algorithms and data structures.  
 
 ---
 
