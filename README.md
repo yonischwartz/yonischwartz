@@ -14,8 +14,19 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 🐙 **GitHub:** [github.com/yonischwartz](https://github.com/yonischwartz)  
 
 ---
-## 🛠 Tech Stack  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+
+## 💡 Skills  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+</p>
 
 ---
 
