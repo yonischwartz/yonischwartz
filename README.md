@@ -39,7 +39,6 @@ I have hands-on experience in **Android development (Kotlin, Firebase)** and pro
 ## 🚀 Featured Projects  
 
 [![GitHub Repo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/yonischwartz/FamilyTree_kotlin)  
-
 **[FamilyTree_kotlin](https://github.com/yonischwartz/FamilyTree_kotlin)**  
 An Android app for displaying a dynamic family tree with Firebase integration, offline caching, and interactive UI.  
 
